@@ -1,6 +1,6 @@
 # Calculadora
 
-A new Flutter project.
+Esse será o envio para atividade 2 e 3.
 
 ## Getting Started
 
